@@ -33,9 +33,10 @@ This is a **simple calculator** web application created using **HTML**, **CSS**,
 
 ---
 
-## Author: Ravi Kumar
+## Author
 
+**Ravi Kumar**
 - [GitHub](https://github.com/mr-ravikumar)
-- [Portfolio](https://www.mrravikumar.com)
-- [LinkedIn](https://linkedin.com/in/mrravikumar)
 - [Twitter](https://twitter.com/mrravikumarr)
+- [LinkedIn](https://linkedin.com/in/mrravikumar)
+- [Portfolio](https://www.mrravikumar.com)
