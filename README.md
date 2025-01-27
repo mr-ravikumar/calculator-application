@@ -37,6 +37,5 @@ This is a **simple calculator** web application created using **HTML**, **CSS**,
 
 **Ravi Kumar**
 - [GitHub](https://github.com/mr-ravikumar)
-- [Twitter](https://twitter.com/mrravikumarr)
 - [LinkedIn](https://linkedin.com/in/mrravikumar)
 - [Portfolio](https://www.mrravikumar.com)
